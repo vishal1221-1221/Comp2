@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae210c19-dce5-4708-ac08-32061a472e14": {
+      "ProjectGuid": "ae210c19-dce5-4708-ac08-32061a472e14",
+      "DisplayName": "TweetApp.Repository",
+      "ColorIndex": 0
+    },
+    "3ed10822-d2b0-4ee8-bf5b-f18a7f9ab55a": {
+      "ProjectGuid": "3ed10822-d2b0-4ee8-bf5b-f18a7f9ab55a",
+      "DisplayName": "TweetApp.Api",
+      "ColorIndex": 1
+    },
+    "d1e0eb47-a65b-4a0e-8eee-05e569051af1": {
+      "ProjectGuid": "d1e0eb47-a65b-4a0e-8eee-05e569051af1",
+      "DisplayName": "RabbitMQLogger",
+      "ColorIndex": 2
+    },
+    "fa9f44a0-cecb-4420-9ee3-9053837d0fb9": {
+      "ProjectGuid": "fa9f44a0-cecb-4420-9ee3-9053837d0fb9",
+      "DisplayName": "TweetApp.Service",
+      "ColorIndex": 3
+    },
+    "36b5d45f-daef-4e55-98cb-2e7d0812cd11": {
+      "ProjectGuid": "36b5d45f-daef-4e55-98cb-2e7d0812cd11",
+      "DisplayName": "TweetApp.Model",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
